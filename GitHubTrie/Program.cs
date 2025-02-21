@@ -11,6 +11,7 @@ namespace GitHubTrie
         static void Main(string[] args)
         {
             //selmammmm askjdsa
+            Console.WriteLine("asdsad");
         }
     }
 }
