@@ -12,6 +12,8 @@ namespace GitHubTrie
         {
             //selmammmm askjdsa
             Console.WriteLine("asdsad");
+            Console.WriteLine("asdsad");
+
         }
     }
 }
