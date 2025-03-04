@@ -13,6 +13,7 @@ namespace GitHubTrie
             Console.WriteLine("asdsad");
             Console.WriteLine("asdsad");
             //sdfghjklsadsfdsfds
+            //merhaba
         }
     }
 }
